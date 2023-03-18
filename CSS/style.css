@@ -1,0 +1,72 @@
+*{
+                    margin: 0%;
+                }
+                header{
+                    width: 100%;
+                    height: 150px;
+                    background-color: rgb(53, 170, 170);
+                    color: bisque;
+                    text-align: center;
+                    
+                }
+                .navi{
+                    width: 100%;
+                    height: 100px;
+                    background-color: rgb(43, 141, 141);
+                    color: bisque;
+                    text-align: center;
+                
+                }
+                .bod{
+                    overflow: hidden;
+                
+                }
+                .lft_cont{
+                    width: 50%;
+                    height: 500px;
+                    background-color: rgb(77, 175, 175);
+                    color: bisque;
+                    text-align: center;
+                    float: left;
+                    
+                
+                }
+                .rght_cont{
+                    width: 50%;
+                    height: 500px;
+                    background-color: rgb(36, 109, 109);
+                    color: bisque;
+                    text-align: center;
+                    float: right;
+                }
+                .asd{
+                    width: 100%;
+                    height: 250px;
+                    background-color: rgb(46, 133, 133);
+                    color: bisque;
+                    text-align: center;
+                    
+                }
+                .sec{
+                    width: 100%;
+                    height: 250px;
+                    background-color: rgb(99, 165, 165);
+                    color: bisque;
+                    text-align: center;
+                }
+                .asds{
+                    width: 100%;
+                    height: 60px;
+                    background-color: rgb(67, 233, 233);
+                    color: bisque;
+                    text-align: center;
+                    
+                }
+                footer{
+                    width: 100%;
+                    height: 80px;
+                    background-color: rgb(8, 100, 100);
+                    color: bisque;
+                    text-align: center;
+                
+                }
